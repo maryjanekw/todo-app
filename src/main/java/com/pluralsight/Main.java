@@ -1,6 +1,7 @@
 package com.pluralsight;
 
 public class Main {
-    // Demotest test
-    // System.out.print
+    public static void main(String[] args) {
+        new UserInterface().start();
+    }
 }
