@@ -60,7 +60,7 @@ public class UserInterface {
         if (manager.deleteTask(index))
             System.out.println("Deleted.");
         else
-            System.out.println("Invalid index.");
+            System.out.println("Invalid index.tt");
     }
 }
 
