@@ -7,6 +7,7 @@ public class UserInterface {
     private Scanner scanner = new Scanner(System.in);
     public void start() {
         System.out.println("Soup");
+        System.out.println("Soup 2");
         while (true) {
             System.out.println("\n=== TO-DO LIST ===");
             System.out.println("1. Add Task");
