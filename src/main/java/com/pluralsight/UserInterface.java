@@ -8,6 +8,7 @@ public class UserInterface {
     public void start() {
         System.out.println("Soup");
         System.out.println("Soup 2");
+        System.out.println("Not Soup");
         while (true) {
             System.out.println("\n=== TO-DO LIST ===");
             System.out.println("1. Add Task");
